@@ -14,6 +14,7 @@
 - `sort_log`: 사용자 행동 로그 (URL, timestamp, action_type 등)
 - `application`: 실제 지원 이력 데이터
 - 사용자별 `is_guide_user` 플래그 파생
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 
 ## 📊 수행 분석
 - EDA 및 행동 시퀀스 분석
