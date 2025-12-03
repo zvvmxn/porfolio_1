@@ -115,4 +115,5 @@
 **사용자 행동 데이터에 기반하여 전환율 향상 및 서비스 개선 포인트를 찾아내는 실전 분석 프로젝트입니다.**
 
 ## ✉️ Contact  
-GitHub: https://github.com/zvvmxn  
+GitHub: https://github.com/zvvmxn 
+Email: jm575496@gmail.com
